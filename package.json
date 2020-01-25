@@ -1,0 +1,23 @@
+{
+  "name": "touchscreen-server",
+  "version": "1.0.0",
+  "description": "Server on the touchscreent to run shell commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHSRobo/touchscreen-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JHSRobo/touchscreen-server/issues"
+  },
+  "homepage": "https://github.com/JHSRobo/touchscreen-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "shelljs": "^0.8.3"
+  }
+}
